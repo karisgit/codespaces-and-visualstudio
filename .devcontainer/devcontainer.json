@@ -1,0 +1,9 @@
+{
+  // Name this configuration
+  "name": "Codespace for skills!",
+   // Use the codespace image
+    "image": "mcr.microsoft.com/vscode/devcontainers/universal:latest",
+      
+    "remoteUser": "codespace",
+    "overrideCommand": false
+}
